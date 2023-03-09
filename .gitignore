@@ -102,13 +102,8 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
-.venv
-env/
-venv/
-ENV/
-env.bak/
-venv.bak/
+.polimi-tis
+polimi-tis/
 
 # Spyder project settings
 .spyderproject
@@ -127,3 +122,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# dataset
+hearth_disease.csv
